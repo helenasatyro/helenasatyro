@@ -10,17 +10,18 @@
  - Hobbyist artist
  - Portuguese and English speaker
  
- ### I have experience in
+ ### Experience in
  - Imperative and Object Oriented Python
  - Java
  - Programming and Linux related teaching
+ - Public speaking
  
- ### And i'm learning
+ ### Learning
  - Linux and Unix, through MIT's Missing Semester course
  - Computational Vision - OpenCV
  - Java, through the University of Helsinki's MOOC course
 
-### I'm interested in
+### and i'm interested in
 - Writing reports, believe it or not
 - Research
 - Learning robotics and arduino prototyping

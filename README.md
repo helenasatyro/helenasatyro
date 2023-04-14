@@ -1,27 +1,31 @@
-# Diddly Doodly Dow!
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
-At lunchtime i bought a huge orange  
+# Hi! I'm Helena =D
+ - CS Student
+ - Brazilian
+ - Hobbyist artist
+ - Portuguese and English speaker
+ 
+ ### I have experience in
+ - Imperative and Object Oriented Python
+ - Java
+ - Programming and Linux related teaching
+ 
+ ### And i'm learning
+ - Linux and Unix, through MIT's Missing Semester course
+ - Computational Vision - OpenCV
+ - Java, through the University of Helsinki's MOOC course
 
-the size of it made us all laugh  
-
-i peeled it and shared it with robert and dave  
-
-they got quarters and i had a half  
-
-and that orange it made me so happy  
-
-as ordinary things often do  
-
-just lately, the shopping, a walk in the park  
-
-this peace and contemptment is new  
-
-the rest of the day was quite easy  
-
-did all of the jobs oin mt list  
-
-and enjoyed them and had some time over  
-
-i love you, im glad i exist.  
-
-the orange, wendy cope
+### I'm interested in
+- Writing reports, believe it or not
+- Research
+- Learning robotics and arduino prototyping
+- Music and visual arts!
+- Design (graphic and code design)
+- Problem solving
+- Language learning
+- Cultural exchange

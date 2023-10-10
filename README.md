@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=25&center=true&vCenter=False&width=1000&lines=whoa+this+is+helena!)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=20&center=true&vCenter=False&width=1000&lines=nice+to+meet+u!+:D)](https://git.io/typing-svg)
 
-- 🤖 Volunteer at IEEE UFCG's **Robotics and Automation Society** !
-- 🌱 I’m currently learning **Java, OpenCV, OOP, and Linux **
+- 🌱 I’m currently learning about **Java, OpenCV, Scikit, OOP, and Linux **
 - ⚡ Fun fact! **I love writing reports, but i'm wordy!**
 - 💬 I speak Portuguese, English, and beginner Spanish, Korean and German :)
 
